@@ -1,0 +1,50 @@
+{
+    "name": "Modal Warn on Unsaved Changes Pro",
+    "version": "23.1",
+    "description": "Displaying Warning messages when data has been changed but not saved is beyond the scope of a modal dialog page's native functionality. We've built Modal Warn on Unsaved Changes Pro to improve the user interface and experience. This plug-in tracks if there are any changes on the modal page when closing or canceling the modal dialog to warn the user of possible data loss.",
+    "keywords": [
+      "Modal",
+      "Warning",
+      "Unsaved Changes"
+    ],
+    "homepage": "https://www.plug-ins-pro.com/",
+    "bugs": {
+      "url": "https://github.com/plug-ins-pro/modal_warn_on_unsaved_changes_pro/issues",
+      "email": "support@plug-ins-pro.com"
+    },
+    "license": "Commercial",
+    "commercial": "Yes",
+    "author": {
+      "name": "United Codes",
+      "email": "info@plug-ins-pro.com",
+      "url": "https://www.united-codes.com/"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/plug-ins-pro/modal_warn_on_unsaved_changes_pro"
+    },
+    "oracle": {
+      "versions": [
+        "19.x",
+        "21.x"
+      ],
+      "apex": {
+        "versions": [
+          "19.2.0",
+          "20.1.0",
+          "20.2.0",
+          "21.1.0",
+          "21.2.0",
+          "22.1.0",
+          "22.2.0",
+          "23.1.0"
+        ],
+        "plugin": {
+          "internalName": "UNITEDCODES_WARN_UNSAVED_CHANGES",
+          "type": "dynamic action",
+          "demo": "https://www.plug-ins-pro.com/ords/r/pluginspro_web/warn_on_unsaved_changes/home",
+          "previewImage": "https://www.plug-ins-pro.com/ords/r/pluginspro_web/757/files/static/v35/united_codes_warn.gif"
+        }
+      }
+    }
+  }
