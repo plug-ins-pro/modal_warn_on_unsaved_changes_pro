@@ -42,8 +42,8 @@
         "plugin": {
           "internalName": "UNITEDCODES_WARN_UNSAVED_CHANGES",
           "type": "dynamic action",
-          "demo": "https://www.plug-ins-pro.com/ords/r/pluginspro_web/warn_on_unsaved_changes/home",
-          "previewImage": "https://www.plug-ins-pro.com/ords/r/pluginspro_web/757/files/static/v35/united_codes_warn.gif"
+          "demo": "https://www.united-codes.com/ords/r/pluginspro_web/warn_on_unsaved_changes/home",
+          "previewImage": "https://www.united-codes.com/ords/r/pluginspro_web/757/files/static/v35/united_codes_warn.gif"
         }
       }
     }
